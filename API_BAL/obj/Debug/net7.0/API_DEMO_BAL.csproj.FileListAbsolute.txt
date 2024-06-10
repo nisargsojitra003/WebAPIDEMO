@@ -1,0 +1,17 @@
+C:\Users\pca103\source\repos\API_BAL\bin\Debug\net7.0\API_DEMO_BAL.deps.json
+C:\Users\pca103\source\repos\API_BAL\bin\Debug\net7.0\API_DEMO_BAL.runtimeconfig.json
+C:\Users\pca103\source\repos\API_BAL\bin\Debug\net7.0\API_DEMO_BAL.dll
+C:\Users\pca103\source\repos\API_BAL\bin\Debug\net7.0\API_DEMO_BAL.pdb
+C:\Users\pca103\source\repos\API_BAL\bin\Debug\net7.0\API_DEMO_DAL.dll
+C:\Users\pca103\source\repos\API_BAL\bin\Debug\net7.0\API_DEMO_DAL.pdb
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.csproj.AssemblyReference.cache
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.AssemblyInfoInputs.cache
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.AssemblyInfo.cs
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.csproj.CoreCompileInputs.cache
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.csproj.CopyComplete
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.dll
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\refint\API_DEMO_BAL.dll
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.pdb
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\API_DEMO_BAL.genruntimeconfig.cache
+C:\Users\pca103\source\repos\API_BAL\obj\Debug\net7.0\ref\API_DEMO_BAL.dll

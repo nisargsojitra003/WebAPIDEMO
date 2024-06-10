@@ -1,0 +1,14 @@
+C:\Users\pca103\source\repos\API_DEMO_DAL\bin\Debug\net7.0\API_DEMO_DAL.deps.json
+C:\Users\pca103\source\repos\API_DEMO_DAL\bin\Debug\net7.0\API_DEMO_DAL.runtimeconfig.json
+C:\Users\pca103\source\repos\API_DEMO_DAL\bin\Debug\net7.0\API_DEMO_DAL.dll
+C:\Users\pca103\source\repos\API_DEMO_DAL\bin\Debug\net7.0\API_DEMO_DAL.pdb
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\API_DEMO_DAL.csproj.AssemblyReference.cache
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\API_DEMO_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\API_DEMO_DAL.AssemblyInfoInputs.cache
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\API_DEMO_DAL.AssemblyInfo.cs
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\API_DEMO_DAL.csproj.CoreCompileInputs.cache
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\API_DEMO_DAL.dll
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\refint\API_DEMO_DAL.dll
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\API_DEMO_DAL.pdb
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\API_DEMO_DAL.genruntimeconfig.cache
+C:\Users\pca103\source\repos\API_DEMO_DAL\obj\Debug\net7.0\ref\API_DEMO_DAL.dll
